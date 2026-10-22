@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+artifacts/*
+!artifacts/.gitkeep
+__pycache__/
+.venv/
+.cache/
+.DS_Store
